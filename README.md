@@ -1,8 +1,8 @@
 # 301B_Overflow
-CRUD Board with ReactJS, ExpressJS
+CRUD Board with ReactJS, ExpressJS <br />
 
 ## 프로젝트 소개
-이 프로젝트는 ReactJS와 ExpressJS를 사용하여 CRUD(생성, 읽기, 수정, 삭제) 기능을 갖춘 게시판을 구현한 프로젝트입니다.
+이 프로젝트는 ReactJS와 ExpressJS를 사용하여 CRUD(생성, 읽기, 수정, 삭제) 기능을 갖춘 게시판을 구현한 프로젝트입니다. <br />
 
 ## 실행 방법
 
